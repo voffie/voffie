@@ -1,5 +1,3 @@
-# VoffieDev
-
 I'm a web- & software developer following my dream of helping people through code. Always on the hunt for new ways to learn and develop both as a person and as as a developer!
 
   <p align="left">
