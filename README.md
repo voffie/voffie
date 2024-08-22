@@ -1,10 +1,12 @@
+<h1>👋 Hello there, my name is Viktor</h1>
+
 I'm a web- & software developer following my dream of helping people through code. Always on the hunt for new ways to learn and develop both as a person and as as a developer!
 
   <p align="left">
-    <a href="https://github.com/VoffieDev?tab=followers">
-      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/VoffieDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
-    <a href="https://github.com/VoffieDev?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VoffieDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
+    <a href="https://github.com/voffie?tab=followers">
+      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/voffie?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
+    <a href="https://github.com/voffie?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/voffie?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
   </p>
 
 ---
@@ -26,10 +28,4 @@ I'm a web- & software developer following my dream of helping people through cod
 
 ### Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=voffiedev&show_icons=true&theme=nord)
-
-#
-
-### My Coding Journey
-
-I got introduced to computers at an early age and have been interested in them as far as I can remember. At first, it was only video games, but as time passed I started to enjoy the more technical parts behind what makes video games and computers work. This was especially true during my last few years of education where I learned about coding, tools that help developers with their work, and a few programming languages. Currently most of my knowledge is within the realm of web development and the Node.js ecosystem, but I'm always open to learn new languages and systems to develop my skills!
+![Github Stats](https://github-readme-stats.vercel.app/api?username=voffie&show_icons=true&theme=nord)
